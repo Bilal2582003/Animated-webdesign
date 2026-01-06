@@ -57,7 +57,7 @@
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
                     <li class="nav-item ms-2">
-                        <a href="#contact" class="btn btn-aesthetic">Launch Project</a>
+                        <a href="#contact" class="btn btn-aesthetic">Contact Us</a>
                     </li>
                 </ul>
             </div>
@@ -213,38 +213,47 @@
         <div class="container">
             <div class="row justify-content-center mb-5">
                 <div class="col-lg-8 text-center">
-                    <h2 class="section-title">Visual Showcase</h2>
+                    <h2 class="section-title">PROJECTS</h2>
                     <p class="section-subtitle">Explore our portfolio of stunning visual projects with interactive elements.</p>
                 </div>
             </div>
             
             <div class="gallery-container">
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1550684376-efcbd6e3f031?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" class="gallery-img" alt="Visual Design 1">
+                    <img src="assets/portfolio.png" class="gallery-img" alt="Visual Design 1">
                     <div class="gallery-overlay">
                         <div>
-                            <h4 class="h3">Neon Dreams</h4>
-                            <p class="text-light opacity-75">Interactive particle system</p>
+                            <h4 class="h3">Portfolio</h4>
+                            <p class="text-light opacity-75">Detail about Developer.</p>
                         </div>
                     </div>
                 </div>
                 
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1558655146-364adaf1fcc9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" class="gallery-img" alt="Visual Design 2">
+                    <img src="assets/Able-choice.png" class="gallery-img" alt="Visual Design 2">
                     <div class="gallery-overlay">
                         <div>
-                            <h4 class="h3">Quantum Flow</h4>
-                            <p class="text-light opacity-75">Fluid gradient animations</p>
+                            <h4 class="h3">Able-Choice</h4>
+                            <p class="text-light opacity-75">Interactive E-Commerce marble website.</p>
                         </div>
                     </div>
                 </div>
                 
                 <div class="gallery-item">
-                    <img src="https://images.unsplash.com/photo-1551216223-37c8d1dbec5c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" class="gallery-img" alt="Visual Design 3">
+                    <img src="assets/al-shaikhi-enterprices.png" class="gallery-img" alt="Visual Design 3">
                     <div class="gallery-overlay">
                         <div>
-                            <h4 class="h3">Cyber Matrix</h4>
-                            <p class="text-light opacity-75">3D parallax effects</p>
+                            <h4 class="h3">Al-Shaikh-Enterprices</h4>
+                            <p class="text-light opacity-75">E-commerce website.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="assets/parlour.png" class="gallery-img" alt="Visual Design 4">
+                    <div class="gallery-overlay">
+                        <div>
+                            <h4 class="h3">Parlore</h4>
+                            <p class="text-light opacity-75">Parlour website for showing makrup, hair, nails, faical arts.</p>
                         </div>
                     </div>
                 </div>
@@ -257,8 +266,8 @@
         <div class="container">
             <div class="row justify-content-center mb-5">
                 <div class="col-lg-8 text-center">
-                    <h2 class="section-title">Start Your Visual Journey</h2>
-                    <p class="section-subtitle">Ready to create an immersive digital experience? Let's connect and build something extraordinary.</p>
+                    <h2 class="section-title">Contact Us</h2>
+                    <p class="section-subtitle">Let's connect and build something extraordinary.</p>
                 </div>
             </div>
             
@@ -302,7 +311,7 @@
                                 </div>
                                 
                                 <div class="col-12 text-center mt-3">
-                                    <button type="submit" class="btn btn-aesthetic px-5 py-3">Launch Project <i class="fas fa-paper-plane ms-2"></i></button>
+                                    <button type="submit" class="btn btn-aesthetic px-5 py-3">Contact Us <i class="fas fa-paper-plane ms-2"></i></button>
                                 </div>
                             </div>
                         </form>
@@ -323,15 +332,15 @@
                 
                 <div class="col-lg-4 mb-4 mb-lg-0 text-center">
                     <div class="social-icons">
-                        <a href="#"><i class="fab fa-dribbble"></i></a>
-                        <a href="#"><i class="fab fa-behance"></i></a>
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-whatsapp"></i></a>
                         <a href="#"><i class="fab fa-instagram"></i></a>
                         <a href="#"><i class="fab fa-github"></i></a>
                     </div>
                 </div>
                 
                 <div class="col-lg-4 text-lg-end">
-                    <p class="text-light opacity-75 mb-0">© 2023 Able-Choice Design Visual Experiences. All rights reserved.</p>
+                    <p class="text-light opacity-75 mb-0">© 2023 Able-Choice Design. All rights reserved.</p>
                 </div>
             </div>
         </div>
